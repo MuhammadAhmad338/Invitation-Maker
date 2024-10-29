@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106475867810",
+    "project_id": "invitationmaker-5a8f4",
+    "storage_bucket": "invitationmaker-5a8f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106475867810:android:2a3edf604018c8d1f8d1fb",
+        "android_client_info": {
+          "package_name": "com.example.invitation_maker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxkz_3-J8nlZVyQYpmmgvT8HTDP3fKARw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
